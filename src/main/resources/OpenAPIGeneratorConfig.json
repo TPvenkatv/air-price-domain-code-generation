@@ -1,0 +1,16 @@
+{
+  "sourceFolder": "src/main/java",
+  "serializableModel": "true",
+  "oas3": "true",
+  "useSpringController": "false",
+  "dateLibrary": "java8",
+  "openApiNullable": "true",
+  "snapshotVersion": "true",
+  "configPackage": "com.travelport.airprice.config",
+  "basePackage": "com.travelport.airprice",
+  "delegatePattern": "true",
+  "singleContentTypes": "false",
+  "reactive": "true",
+  "useOptional": "false",
+  "swaggerDocketConfig": "false"
+}

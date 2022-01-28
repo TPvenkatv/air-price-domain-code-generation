@@ -1,0 +1,6 @@
+
+spring:
+  application:
+    name: air-price-domain-code-generation
+    
+    
